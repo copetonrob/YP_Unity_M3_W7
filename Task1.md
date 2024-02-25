@@ -14,13 +14,13 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W7/blob/main/img/Image.png" width="300"/>
 
-3) Выстави якорь в центр экрана. Для этого можно использовать пресет с зажатым Alt
+3) Выстави якорь в центр экрана. Для этого можно использовать одну из преднастроек с зажатым Alt
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W7/blob/main/img/anchor.png" width="300"/>
 
 4) Найди в интернете картинку для прицела. Желательно на прозрачном фоне в формате png. Можно использовать любой поисковик или проверить специальные стоки с изображениями, например, [этот](https://www.flaticon.com/free-icons/aim?k=1708699659805&log-in=google)
 
-Если хочешь, можешь взять наш [прицел](https://github.com/copetonrob/YP_Unity_M3_W7/blob/main/img/crosshair.png)
+Если хочешь, можешь взять наш [прицел](https://github.com/copetonrob/YP_Unity_M3_W7/blob/main/img/target.png)
 
 5) Поменяй texture type на Sprite (2D and UI). Нажми Apply, чтобы применить изменения
 
